@@ -1,6 +1,6 @@
 CommonMark==0.7.4
 contentful==1.7.0
-coverage==4.4.2
+coverage==6.5.0
 flake8==3.5.0
 Flask==0.12.2
 Flask-Misaka==0.4.1
